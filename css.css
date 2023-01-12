@@ -62,15 +62,15 @@ button {
     transform: translate(340px, 180px);
 }
 
-@media screen and (max-width:552px) {
+@media screen and (max-width:400px) {
     .container {
         transform: translate(0, 0);
         padding: 10px;
     }
     .box {
         background-color: greenyellow;
-        padding: 30px;
-        font-size: 37px;
+        padding: 25px;
+        font-size: 30px;
     }
     .title {
         transform: translate(60px, 50px);
