@@ -3,3 +3,8 @@ blue
 green
 yellow
 black
+
+pink
+gray
+orange
+white
