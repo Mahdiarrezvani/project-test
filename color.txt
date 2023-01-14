@@ -4,4 +4,14 @@ green
 yellow
 black
 
+me
 red-yellow
+
+a person
+pink
+gray
+orange
+white
+
+yellowGreen
+blackWhite
