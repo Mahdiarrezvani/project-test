@@ -8,3 +8,6 @@ pink
 gray
 orange
 white
+
+yellowGreen
+blackWhite
